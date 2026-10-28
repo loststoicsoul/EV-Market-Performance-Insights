@@ -138,6 +138,6 @@ The dataset contains EV attributes such as manufacturer, model year, battery spe
 
 ## 👨‍💻 Author
 
-**Aman Yadav**
+**Mohd Tanzeel Imam**
 
 ⭐ If you find this project useful, feel free to explore the dashboard and share your feedback.
