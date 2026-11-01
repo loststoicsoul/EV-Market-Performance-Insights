@@ -74,7 +74,7 @@ The following screenshots showcase the Flask dashboard interface and its visuali
 
 Explore the interactive Tableau dashboard:
 
-**[View Tableau Dashboard](https://public.tableau.com/views/EVMarketPerformanceInsights_17928843957760/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)**
+**[View Tableau Dashboard](https://public.tableau.com/app/profile/mohd.tanzeel.imam/viz/Tanzeel/Story1?publish=yes)**
 
 ## 📂 Project Structure
 
